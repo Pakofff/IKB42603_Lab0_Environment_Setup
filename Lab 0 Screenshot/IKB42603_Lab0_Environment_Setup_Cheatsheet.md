@@ -78,6 +78,7 @@ curl http://localhost:4566/_localstack/health
 The response should list the available LocalStack services.
 
 ![LocalStack health response](Docker%20run%20%287%29.png)
+![LocalStack Web health response](Web%20View%20localstack.png)
 
 ## 8. Create and verify the kind cluster
 
